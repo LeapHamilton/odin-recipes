@@ -1,0 +1,17 @@
+h1 {
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: gold;
+    color: blue;
+    text-align: center;
+}
+.listy {
+    font-size: 24px;
+    text-align: center;
+}
+body img {
+    height: auto;
+    width: 300;
+   
+
+}
